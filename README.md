@@ -9,8 +9,9 @@ Key features include:<br>
 • Snooze Option: Delay the alarm for a few extra minutes of rest.<br>
 • Dismiss Functionality: Conveniently turn off alarms once you're up.<br>
 
-This app combines simplicity and functionality, making it a reliable tool for daily scheduling needs.<br>
-Screenshots
+This app combines simplicity and functionality, making it a reliable tool for daily scheduling needs.<br><br>
+
+## Screenshots
 
 
 ![1](https://github.com/arihantjain-aj/ALARM-CLOCK-CODSOFT/assets/121403074/767dc2a3-a5cd-4cf7-9e7b-1a8ea60e4f38)
