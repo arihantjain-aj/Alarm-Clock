@@ -1,4 +1,4 @@
-﻿# ALARM-CLOCK-CODSOFT
+﻿# ALARM-CLOCK
 
 Android Java project 
 
